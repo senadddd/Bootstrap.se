@@ -1,0 +1,12 @@
+body{
+    background-color:silver;
+}
+
+svg{
+    margin-left: 1rem;
+}
+
+.card{
+  margin-top: 5rem;
+  color:midnightblue;
+}
